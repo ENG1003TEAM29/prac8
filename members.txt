@@ -1,8 +1,9 @@
 List of members for team 29
 
 Justin Wong
-
-Timothy Lim
+Brief introduction: Hello! 
+Role in project: coding the html and css software **hopefully some javascript**
+preferred branch: civil,mechanical
 
 Samiha Tasmim
 
