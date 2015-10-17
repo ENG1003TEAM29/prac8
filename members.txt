@@ -7,6 +7,10 @@ preferred branch: civil,mechanical
 HIHIHIHIHI
 
 Samiha Tasmim
+Brief introduction:  Hey! :)
+Role in project: Programmer
+Preferred branch: Chemical
+myniggamynigga
 
 Yassin
 
@@ -16,5 +20,8 @@ Role in project: team leader
 preferred branch: civil,mechanical
 blablablacksheepanyanywool
 stilltestinglol
+<<<<<<< HEAD
 
 asdasdasdsa
+=======
+>>>>>>> origin/Timothy-Lim
